@@ -1,3 +1,0 @@
-1、In this program , you should be install with i686-8.1.0-posix-dwarf-rt_v6-rev0.
-2、Edit mingw path from install process in the batch file.
-3、Run batch file with administrator to write mingw path in system enviroment.
